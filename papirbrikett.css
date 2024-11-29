@@ -22,6 +22,8 @@ h1, h2{
   background-color: #EBEBEB;
   padding: 10px 35px;
   font-size: 75%;
+  border-top: solid 1px #3f4f5f;
+  border-bottom: solid 1px #3f4f5f;
 }
 
 #brikettek{
@@ -57,6 +59,8 @@ p:first-letter{
 
 .kiemelt{
   font-style: italic;
+  font-weight: bold;
+  
 }
 
 li{
